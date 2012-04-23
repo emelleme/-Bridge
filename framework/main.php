@@ -21,7 +21,7 @@ if (version_compare(phpversion(), '5.3.2', '<')) {
 }
 
 ini_set('display_errors', 1);
-date_default_timezone_set('America/New_York');
+ini_set('display_errors','America/New_York');
 
 /**
  * Main file that handles every page request.
