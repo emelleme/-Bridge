@@ -1,0 +1,15 @@
+ast:
+  SiteTree:
+    CHANGETO: "Camudar a \"%s\""
+    Content: "Conteníu"
+    HTMLEDITORTITLE: "Conteníu"
+    PAGETYPE: "Triba de páxina"
+    PARENTID: "Páxina padre"
+    PARENTTYPE: "Llocalización de la páxina"
+    PLURALNAME: "Árboles del sitiu"
+    SINGULARNAME: "Árbol del sitiu"
+    URLSegment: "Segmentu URL"
+    has_one_Parent: "Páxina padre"
+  VirtualPage:
+    PLURALNAME: "Páxines virtuales"
+    SINGULARNAME: "Páxina virtual"

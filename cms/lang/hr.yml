@@ -1,0 +1,95 @@
+hr:
+  AssetAdmin:
+    NEWFOLDER: "Novi direktorij"
+  AssetAdmin_left.ss:
+    GO: "Idi"
+  CMSMain:
+    ACCESS: "Pristup u '%s' (%s)"
+    EMAIL: "Email"
+    NEW: "Nova"
+    PAGENOTEXISTS: "Stranica ne postoji"
+    PUBALLCONFIRM: "Molim objavi svaku stranicu, kopirajući sadržaj"
+    PUBALLFUN: "\"Objavi sve\""
+    PUBALLFUN2: "Ovaj gumb radi isto što i klikanje na \"objavi\" gumbe za svaku stranicu posebno. Koristi se nakon velikih promjena u sadržaju, kao npr. kod prve objave stranice."
+    PUBPAGES: "Obavljeno: Objavljeno %d stranica"
+    REMOVEDPAGE: "'%s' obrisano sa objavljene stranice"
+    RESTORED: "'%s' uspješno vraćen u početno stanje"
+    ROLLBACK: "Vrati na ovu verziju"
+    ROLLEDBACKPUB: "Vraćen na objavljenu verziju. Novi broj verzije je #%d"
+    ROLLEDBACKVERSION: "Vraćen na verziju #%d. Novi broj verzije je #%d"
+    SAVE: "Snimi"
+  CMSMain_left.ss:
+  ContentController:
+    DRAFT_SITE_ACCESS_RESTRICTION: "Morate biti prijavljeni sa vašom CMS zaporkom kako bi ste mogli vidjeti privremeni ili arhivirani sadržaj. <a href=\"%s\">Kliknite kako bi ste se vratili na objavljen dio stranice</a>"
+  ErrorPage:
+    CODE: "Error code"
+  LeftAndMain:
+  RedirectorPage:
+    HASBEENSETUP: "Stranica za preusjeravanje nema postavljenog preusmjeravanja"
+    HEADER: "Ova stranica preusmjeriti će korisnike na drugu stranicu"
+    OTHERURL: "URL drugog weba"
+    REDIRECTTO: "Preusmjeri na"
+    REDIRECTTOEXTERNAL: "Drugi web"
+    REDIRECTTOPAGE: "Stranicu na Vašom webu"
+    YOURPAGE: "Stranica na Vašem webu"
+  SideReport:
+    EMPTYPAGES: "Prazne stranice"
+    LAST2WEEKS: "Stranice mijenjane u zadnja 2 tjedna"
+    REPEMPTY: "%s izvještaj je prazan."
+  SiteTree:
+    ACCESSANYONE: "Svi"
+    ACCESSHEADER: "Tko može pregledavati ovu stranicu?"
+    ACCESSLOGGEDIN: "Samo prijavljeni korisnici"
+    ACCESSONLYTHESE: "Samo slijedeći korisnici (odaberite s popisa)"
+    ALLOWCOMMENTS: "Dozvoli komentare na stranici"
+    APPEARSVIRTUALPAGES: "Ovaj sadržaj pojavljuje se i na virtualnim stranicama u %s sekcijama"
+    BUTTONCANCELDRAFT: "Otkaži promjene na privremenoj stranici (draft)"
+    BUTTONCANCELDRAFTDESC: "Obiriši privremenu stranicu i vrati na trenutno objavljenu"
+    BUTTONSAVEPUBLISH: "Spremi i Objavi"
+    BUTTONUNPUBLISH: "Unpublish"
+    BUTTONUNPUBLISHDESC: "Izbrišite ovu stranicu sa objavljene"
+    CHANGETO: "Promijeni u \"%s\""
+    Content: "Sadržaj"
+    EDITANYONE: "Svi koji se mogu prijaviti  u CMS"
+    EDITHEADER: "Tko može uređivati unutar CMSa?"
+    EDITONLYTHESE: "Samo slijedeći korisnici (odaberite s popisa)"
+    HASBROKENLINKS: "Ova stranica ima pogrešne linkove"
+    HTMLEDITORTITLE: "Sadržaj"
+    MENUTITLE: "Oznaka navigacije"
+    METADESC: "Opis"
+    METAEXTRA: "Podešeni Meta Tagovi"
+    METAKEYWORDS: "Ključne riječi"
+    METATITLE: "Naslov"
+    PAGETITLE: "Ime stranice"
+    PAGETYPE: "Vrsta stranice"
+    PLURALNAME: "Stranična stabla"
+    SHOWINMENUS: "Pokaži u izbornicima?"
+    SHOWINSEARCH: "Pokaži u tražilici?"
+    SINGULARNAME: "Stranično stablo"
+    TABACCESS: |
+                Pristup
+                
+    TABBEHAVIOUR: "Karakteristike"
+    TABCONTENT: "Sadržaj"
+    TABMETA: "Meta-data"
+    TOPLEVEL: "Sadržaj stranice (Top Level)"
+    URLSegment: "Dio URLa"
+    has_one_Parent: "Roditeljska stranica"
+  StaticExporter:
+    BASEURL: "Osnovni URL"
+    EXPORTTO: "Izvezi u taj direktorij"
+    NAME: "Statični exporter"
+  TableListField_PageControls.ss:
+    VIEWFIRST: "Pogledaj prvi"
+    VIEWLAST: "Pogledaj zadnji"
+    VIEWNEXT: "Pogledaj slijedeći"
+    VIEWPREVIOUS: "Pogledaj prethodni"
+  ViewArchivedEmail.ss:
+    CANACCESS: "Na slijedećem linku možete pristupiti arhiviranoj stranici:"
+    HAVEASKED: "Zatražili ste sadržaj naše stranice "
+  VirtualPage:
+    CHOOSE: "Odaberite stranicu na koju se želite povezati"
+    EDITCONTENT: "kliknite za uređivanje sadržaja"
+    HEADER: "Ovo je virtualna stranica"
+    PLURALNAME: "Virtualne stranice"
+    SINGULARNAME: "Virtualna stranica"

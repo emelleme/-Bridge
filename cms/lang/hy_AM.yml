@@ -1,0 +1,10 @@
+hy_AM:
+  AssetAdmin:
+  AssetAdmin_left.ss:
+  CMSMain:
+    NEW: "Նոր"
+    RESTORED: "Հաջող վերակառուցեց '%s'"
+  CMSMain_left.ss:
+  LeftAndMain:
+  SideReport:
+    REPEMPTY: "%s զեկույցը դատարկ է:"

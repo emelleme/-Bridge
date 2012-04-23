@@ -1,0 +1,51 @@
+pa:
+  ContentController:
+    DRAFT_SITE_ACCESS_RESTRICTION: |
+                                    ਕੱਚੀ ਜਾਂ ਪੁਰਾਣੀ ਸਾਈਟ ਦੇਖਣ ਲਈ ਤੁਹਾਨੰੂ ਜ਼ਰੂਰ ਆਪਣੇ CMS ਪਾਸਵਰਡ ਨਾਲ ਲੋਿਗਨ ਕਰਨੀ ਪਵੇਗੀ।
+                                    <a href="%s">ਛਾਪੀ ਹੋਈ ਸਾਈਟ ਤੇ ਜਾਨ ਲਈ ਇੱਥੇ ਕਿਲੱਕ ਕਰੋ।</a>
+                                    
+  ErrorPage:
+    CODE: "Error code"
+  RedirectorPage:
+    HASBEENSETUP: "A redirector page has been set up without anywhere to redirect to."
+    HEADER: "This page will redirect users to another page"
+    OTHERURL: "ਹੋਰ ਵੈੱਬ-ਸਾਈਟ URL"
+    REDIRECTTO: "Redirect to"
+    REDIRECTTOEXTERNAL: "ਦੂਸਰੀ ਵੈੱਬ-ਸਾਈਟ "
+    REDIRECTTOPAGE: "ਇੱਕ ਪੰਨਾ ਤੁਹਾਡੀ ਵੈੱਬ-ਸਾਈਟ ਤੇ "
+    YOURPAGE: "ਇੱਕ ਪੰਨਾ ਤੁਹਾਡੀ ਵੈੱਬ-ਸਾਈਟ ਤੇ "
+  SiteTree:
+    ACCESSANYONE: "ਕੋਈ ਵੀ	"
+    ACCESSHEADER: "Who can view this page on my site?"
+    ACCESSLOGGEDIN: "Logged-in users"
+    ACCESSONLYTHESE: "Only these people (choose from list)"
+    ALLOWCOMMENTS: "ਇਸ ਪੰਨੇ ਤੇ ਿਟੱਪਣੀਆਂ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।"
+    APPEARSVIRTUALPAGES: "This content also appears on the virtual pages in the %s sections"
+    BUTTONCANCELDRAFT: "ਕੱਚੀਆ ਤਬਦੀਲੀਆਂ ਨੰੂ ਰੱਦ ਕਰੋ"
+    BUTTONCANCELDRAFTDESC: "Delete your draft and revert to the currently published page"
+    BUTTONSAVEPUBLISH: "ਬਚਾਓ ਅਤੇ ਛਾਪੋ"
+    BUTTONUNPUBLISH: "ਅਣਛਾਪੋ       "
+    BUTTONUNPUBLISHDESC: "Remove this page from the published site"
+    EDITANYONE: "Anyone who can log-in to the CMS"
+    EDITHEADER: "Who can edit this inside the CMS?"
+    EDITONLYTHESE: "Only these people (choose from list)"
+    HASBROKENLINKS: "This page has broken links."
+    HTMLEDITORTITLE: "ਸਮਾਨ"
+    MENUTITLE: "Navigation label"
+    METADESC: "ਵਰਣਨ"
+    METAEXTRA: "Custom Meta Tags"
+    METAKEYWORDS: "Keywords"
+    METATITLE: "ਟਾਈਟਲ"
+    PAGETITLE: "ਪੰਨੇ ਦਾ ਨਾਂ	"
+    PAGETYPE: "ਸਫ਼ੇ ਦੀ ਿਕਸਮ  "
+    SHOWINMENUS: "menus ਿਵੱਚ ਿਦਖਾਉ?"
+    SHOWINSEARCH: "search ਿਵੱਚ ਿਦਖਾਉ?"
+    TABACCESS: "Access"
+    TABBEHAVIOUR: "ਵਰਤਾਉ"
+    TABCONTENT: "ਸਮਾਨ "
+    TABMETA: "Meta-data"
+    TOPLEVEL: "ਸਾਈਟ ਦਾ ਸਮਾਨ (Top Level)"
+  VirtualPage:
+    CHOOSE: "Choose a page to link to"
+    EDITCONTENT: "ਸਮਾਨ ਐਿਡਟ ਕਰਨ ਲਈ ਇੱਥ ਕਿਲੱਕ ਕਰੋ"
+    HEADER: "ਇਹ ਇੱਕ virtual ਪੰਨਾ ਹੈ।"

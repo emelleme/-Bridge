@@ -1,0 +1,12 @@
+el:
+  AssetAdmin:
+  CMSMain:
+    EMAIL: "Email"
+    NEW: "Νέα"
+    SAVE: "Αποθήκευση"
+  CMSMain_left.ss:
+  LeftAndMain:
+  SideReport:
+    REPEMPTY: "Η %s αναφορά είναι κενή."
+  ViewArchivedEmail.ss:
+    HAVEASKED: "Επιθυμείται να εμφανιστεί το περιεχόμενο του ιστοχώρου σας την "
