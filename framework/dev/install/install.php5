@@ -16,6 +16,7 @@
 
 // speed up mysql_connect timeout if the server can't be found
 ini_set('mysql.connect_timeout', 5);
+ini_set('date.timezone', 'America/New_York');
 
 ini_set('max_execution_time', 0);
 
